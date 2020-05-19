@@ -1,14 +1,11 @@
 import React from 'react';
 import logo from './logo.svg';
-import Counter from './Counter';
+import Counter from './components/Counter';
 import './App.css';
 
 function App() {
-  return (
-
-    <
+  return ( <
     Counter x = '2' / >
-
   );
 }
 
